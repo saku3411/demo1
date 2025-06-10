@@ -1,0 +1,31 @@
+#main{
+    background-color: #007bff;
+    box-shadow: 0 2px 10px #0000001a;
+    display: flex;
+    top: 0;
+    right:0;
+    left: 0;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    color: #fff;
+    position:fixed;
+    z-index: 999;
+}
+#main1{
+    background-color: green;
+    color: wheat;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+#main2{
+    color: white;
+    justify-content: space-between;
+    gap: 15px;
+}
+.right-item{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    color: white;
+}
