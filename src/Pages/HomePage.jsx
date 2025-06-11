@@ -10,7 +10,7 @@ const HomePage = () => {
             <Header/>
                 <div className="page-container">
                     <div className="college-image">
-                        <img src="./src/assets/symbol.jpeg" alt="VCK" class = "college image" width="100%" height="300px"></img>
+                        <img src="./images/symbol.jpeg" alt="VCK" class = "college image" width="100%" height="300px"></img>
                    
                         <div className="front-image">
 
@@ -32,8 +32,8 @@ const HomePage = () => {
                 </ul>
                 <h2>Campus Life & Facilities</h2>
                 <div>
-                    <img src="./src/assets/vck.jpeg"  width="40%" height="200px"></img>
-                    <img src="./src/assets/campus.jpeg" width="40%" height="200px" ></img>
+                    <img src="./images/vck.jpeg"  width="40%" height="200px"></img>
+                    <img src="./images/campus.jpeg" width="40%" height="200px" ></img>
                 </div>
             
                 <a href="CoursesPage">Explore our vibrant campus and state-of-the-art facilities designed to enhance your learning experience and personal growth.</a>
