@@ -6,13 +6,13 @@ import Footer from "../Components/Header/Footer/Footer";
 const HomePage = () => {
     return(
 
-        <div class="content">
+        <div className="content">
             <Header/>
-                <div class="page-container">
-                    <div class="college-image">
+                <div className="page-container">
+                    <div className="college-image">
                         <img src="./src/assets/symbol.jpeg" alt="VCK" class = "college image" width="100%" height="300px"></img>
                    
-                        <div class="front-image">
+                        <div className="front-image">
 
                         <h1>welcome to vivekanand college</h1>
                         <p>Your journey to excellence starts here.</p>
@@ -38,7 +38,7 @@ const HomePage = () => {
             
                 <a href="CoursesPage">Explore our vibrant campus and state-of-the-art facilities designed to enhance your learning experience and personal growth.</a>
                 <p>Ready to explore our courses</p>
-                <p class="demo"> explore courses?</p>
+                <p className="demo"> explore courses?</p>
                 </div>
             <Footer/>
         </div>

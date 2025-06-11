@@ -8,7 +8,7 @@ const ContactPage = () => {
         <div className="content">
             <Header/>
             <div className="page-container">
-            <h1 class="demo2">Contact Us</h1>
+            <h1 className="demo2">Contact Us</h1>
 
               <p>We'd love to hear from you! Whether you have questions about admissions, programs, or campus life, our team is here to help.</p>
             
