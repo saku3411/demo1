@@ -16,7 +16,7 @@ const HomePage = () => {
 
                         <h1>welcome to vivekanand college</h1>
                         <p>Your journey to excellence starts here.</p>
-                        <a href="AddmissionPage" id="main1"><u>Apply Now!</u></a>
+                        <a href="addmission" id="main1"><u>Apply Now!</u></a>
                     </div>
                 </div>
                 <p>Vivekanand College is a premier educational institution dedicated to fostering academic excellence, innovation, and holistic development. Established in [Year of Establishment, e.g., 1980], we have proudly served generations of students, empowering them to achieve their full potential.</p>
@@ -36,9 +36,11 @@ const HomePage = () => {
                     <img src="./images/campus.jpeg" width="40%" height="200px" ></img>
                 </div>
             
-                <a href="CoursesPage">Explore our vibrant campus and state-of-the-art facilities designed to enhance your learning experience and personal growth.</a>
+                <p>Explore our vibrant campus and state-of-the-art facilities designed to enhance your learning experience and personal growth.</p>
+                <div className="wo">
                 <p>Ready to explore our courses</p>
-                <p className="demo"> explore courses?</p>
+                <a className="btn" href="./coursespage"> explore courses?</a>
+                </div>
                 </div>
             <Footer/>
         </div>

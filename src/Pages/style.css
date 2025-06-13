@@ -9,6 +9,7 @@
     border-radius: 5px;
     position: relative;
     left: 42%;
+    text-align: center;
 }
 .demo2{
     color: #007bff;
@@ -77,5 +78,17 @@ body{
     background-color: green;
     color: white;
     padding: 12px 25px;
+    text-align: center;
+
+}
+.wo{
+    text-align: center;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;   
 }
 

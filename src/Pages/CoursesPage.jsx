@@ -98,7 +98,7 @@ const CoursesPage = () => {
             <p className="demo3">Have questions about a specific course?</p>
 
             
-            <a href="ContactPage" className="demo1">Inquire About Courses</a>
+            <a href="ContactPage" className="demo">Inquire About Courses</a>
         <Footer/>
         </div>
          </div>
