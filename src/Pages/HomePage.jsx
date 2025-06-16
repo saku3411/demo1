@@ -10,12 +10,12 @@ const HomePage = () => {
             <Header/>
                 <div className="page-container">
                     <div className="college-image">
-                        <img src="./images/symbol.jpeg" alt="VCK" class = "college image" width="100%" height="300px"></img>
+                        <img src="./images/vck symbol.png" alt="VCK" className = "college-image" width="100%" height="300px"></img>
                    
                         <div className="front-image">
 
-                        <h1>welcome to vivekanand college</h1>
-                        <p>Your journey to excellence starts here.</p>
+                        <h1><b>welcome to vivekanand college</b></h1>
+                        <p><b>Your journey to excellence starts here.</b></p>
                         <a href="addmission" id="main1"><u>Apply Now!</u></a>
                     </div>
                 </div>
